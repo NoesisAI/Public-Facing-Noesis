@@ -1,4 +1,6 @@
-# Public-Facing-Noesis
+Public-Facing-Noesis
+© [2025] [Nicole M. Wild]. All Rights Reserved.
+
 NoesisAI Insights
 
 NoesisAI have developed:
